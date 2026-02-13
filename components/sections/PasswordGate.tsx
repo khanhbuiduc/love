@@ -36,7 +36,7 @@ export const PasswordGate = ({ onUnlock }: PasswordGateProps) => {
         className="glass-effect p-12 max-w-md w-full mx-4"
       >
         <div className="text-center mb-8">
-          <h1 className="text-3xl md:text-4xl font-serif text-white mb-2 tracking-wider">運命の場所</h1>
+          <h1 className="text-3xl md:text-4xl font-serif text-white mb-2 tracking-wider">あなたは私と一番何をしたいですか？</h1>
           <p className="text-xs md:text-sm text-white/70">Nơi Của Định Mệnh</p>
         </div>
 
